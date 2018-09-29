@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use multiple SSH key settings for different github account"
 date:   2018-09-28 21:11:00 +0530
-categories: jekyll update
+categories: blog
 ---
 First, create multiple accounts in github account with username `<username1>, <username2>`.  
 
