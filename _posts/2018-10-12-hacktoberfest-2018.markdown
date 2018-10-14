@@ -11,7 +11,7 @@ Let’s come to hacktoberfest.
 
 What is this? Is this some kind of contest? yes, this is kind of contest which inspires developers to quickly move around their favorite projects in Github and start fixing the issue. Check here for <a href="https://hacktoberfest.digitalocean.com" target="_blank">more details</a>
 
-I was going through GitHub to search for ember based projects to contribute for a while and found one interesting organization named <a href="https://github.com/ember-learn">ember-learn</a>. This contains a lot of other projects where issues are marked with `help-wanted` and `hacktoberfest` which gives first time or budding developer to check and start digging it.
+I went through GitHub to search for ember based projects to contribute for a while and found one interesting organization named <a href="https://github.com/ember-learn">ember-learn</a>. This contains a lot of other projects where issues are marked with `help-wanted` and `hacktoberfest` which gives first time or budding developer to check and start digging it.
 
 For starters, It might take a while to understand the issue completely, don’t worry. You can get help from the community. There are more and more developers are interested in working with new generations where they will guide you to understand, debug and fix the issue. Once you are done with the first one. It feels good that you have contributed. Don’t stop there.
 
